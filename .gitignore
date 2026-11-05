@@ -5,6 +5,7 @@ dist/
 web-build/
 .build/
 .superpowers/
+skills/
 coverage/
 *.tsbuildinfo
 
